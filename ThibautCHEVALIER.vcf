@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 11.7//EN
+N:CHEVALIER;Thibaut;;;
+FN:Thibaut CHEVALIER
+EMAIL;type=INTERNET;type=HOME;type=pref:thibaut.chevalier@agex.fr
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:0675825625
+TEL;type=WORK;type=VOICE:0130574090
+ADR;type=WORK;type=pref:;;21C Rue Jacques Cartier;Voisins le Bretonneux;;78960;France
+item1.URL;type=pref:https://agex.fr
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
